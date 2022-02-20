@@ -36,7 +36,7 @@ That's it.
 
 ## Resources Used
 - Google Charts API
-- [NOW UI Kit](https://demos.creative-tim.com/now-ui-kit/index.html) by Creative-Kim
+- [Now UI Kit](https://demos.creative-tim.com/now-ui-kit/index.html) by Creative-Kim
 
 ## Contributer
 This project was created during JUET Builds Hackathod organised by Jaypee University of Engineering and Technology Guna, Madhya Pradesh, India (473226)
