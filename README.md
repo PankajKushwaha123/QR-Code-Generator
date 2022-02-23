@@ -34,13 +34,16 @@ Installation of hustal is much then you think
 
 That's it.
 
-## Resources Used
+## Resources
+Following resources were used for the development of this project:
 - Google Charts API
 - [Now UI Kit](https://demos.creative-tim.com/now-ui-kit/index.html) by Creative-Kim
 
 ## Contributer
-This project was created during JUET Builds Hackathod organised by Jaypee University of Engineering and Technology Guna, Madhya Pradesh, India (473226)
+This project was created during [JUET Builds Hackathon](https://juethacks.github.io/juethacks/) organised by [Jaypee University of Engineering and Technology Guna, Madhya Pradesh, India (473226)](https://juet.ac.in)
+
 Team Name: Desk Companions
+
 Team Members:
 - Hrishikesh Bhatt (Admin)
 - Pankaj Kushwaha
