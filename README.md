@@ -1,7 +1,7 @@
 ## QR Code Generator
 A simple QR Code Genrator with capability to generate QR for URLs, Text, Wi-Fi, vCard, SMS, Email, and Twitter.
 
-[![AppVeyor](https://img.shields.io/badge/Demo-Live-lightgreen)](https://pankajkushwaha123.github.io/QR-Code-Generator/)
+[![AppVeyor](https://img.shields.io/badge/Demo-Live-lightgreen)](https://qr.pankajkush.club/)
 
 ## Table of Content 
 - [Features](#features)
